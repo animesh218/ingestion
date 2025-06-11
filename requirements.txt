@@ -2,3 +2,4 @@ requests
 streamlit
 pandas
 numpy
+python - dotenv
